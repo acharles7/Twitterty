@@ -1,7 +1,7 @@
 # Twitterty
 Sentiment Analysis on Tweets
 
-The system provides News/Media Analytics System adapted to automatically process and read news stories and content from twitter in as close to real-time as possible.The system then bifurcates the news and stories according to user opinions(positive and negative primarily) and generates an opinion pool using language processing and summarizing the prime reasons for the same.
+A cross-platform application that reads content from twitter and then bifurcates the news and stories according to user opinions(positive, negative, and neutral primarily) and generates an opinion pool using language processing and computational linguistics
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/17268094/50328156-ebe13d00-04a6-11e9-8bc2-5ee448d3dd90.png" height="500" width="215" title="hover text">
