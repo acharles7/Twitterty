@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "twitterty",
+    "description": "No description",
+    "slug": "twitterty",
+    "privacy": "public",
+    "sdkVersion": "23.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
